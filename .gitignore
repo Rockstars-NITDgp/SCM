@@ -1,0 +1,15 @@
+#Database files
+db.sqlite3
+
+#JSON files
+pip-selfcheck.json
+
+#virtual environment files
+bin
+include
+lib
+
+
+#settings.py file(Never dump settings.py to git)
+settings.py
+
